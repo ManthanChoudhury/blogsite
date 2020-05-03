@@ -1,6 +1,6 @@
 # blogsite
 
-learn to create your own site using auotmation.
+learn to create your own site using automation.
 by using :-
 
 1 docker
