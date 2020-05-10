@@ -1,4 +1,4 @@
-# blogsite
+# Blogsite
 
 basically we are launching a blogsite using automation.
 
