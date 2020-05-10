@@ -68,10 +68,50 @@ Hola!, Everything is Set now the containers are now built and running. You shoul
 
        docker-compose stop
 
+# SETUP
+  -  when it get enabled. (lot of stuff going on background like setup of php, mysql, porting, data storing)
+  
+![sc 1](https://user-images.githubusercontent.com/45136716/81510374-cfa99e80-932e-11ea-9563-d09f31a86657.png)
+
+
+  -  `ifconfig`:- Get your IP address  [http://XXX.XXX.XXX.XXX:8081] using this on google chrome we will GUI from it. 
+  
+  
+![project1](https://user-images.githubusercontent.com/45136716/81510381-d7694300-932e-11ea-8093-d0914dad86b4.jpg)
+
+
+  -  it takes some initial setup (password , email id, heading)    
+  
+  
+![project2](https://user-images.githubusercontent.com/45136716/81510383-db956080-932e-11ea-87fd-9adef694f1de.jpg)
+
+
+  -  it takes your id and password
+  
+  
+![project 3](https://user-images.githubusercontent.com/45136716/81510388-e3ed9b80-932e-11ea-9eef-31653c6132a9.jpg)
+
+
+  -  Ready to go..(create your first BLOG)
+  
+  
+![project 4](https://user-images.githubusercontent.com/45136716/81510390-f7006b80-932e-11ea-93cb-6f6a347ce805.jpg)
+
+
+  -  loading data from blog site (MEANS DATA IS PERMANENT)  
+  
+  
+![sc 2](https://user-images.githubusercontent.com/45136716/81510393-fbc51f80-932e-11ea-843c-c21db6d49ba3.png)
+
+
+
 
 # AUTHOR
  
  [MANTHAN CHOUDHURY] (https://github.com/ManthanChoudhury)
+ 
+ 
+ 
  
 
 
