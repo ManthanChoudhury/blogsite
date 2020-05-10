@@ -16,7 +16,7 @@ learn to create your own site using automation.
     -  Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and deploy it as one package.
     
 -  WORDPRESS
-   -  Basically for framewaork. it uses PHP on background. On the surface Wordpress is a content management system. It is used by most of its users as a content management system and it offers all of the features of a content management system.
+   -  Basically for framework. it uses PHP on background. On the surface Wordpress is a content management system. It is used by most of its users as a content management system and it offers all of the features of a content management system.
    
 -  MYSQL
    -  we are using it for database management .MySQL Cluster enables users to meet the database challenges of next generation web, cloud, and communications services with uncompromising scalability.
