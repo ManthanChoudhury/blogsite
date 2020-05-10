@@ -60,13 +60,13 @@ Hola!, Everything is Set now the containers are now built and running. You shoul
 
 ## Fore more reference on docker-compose:-
 
-Start the containers with the up command in daemon mode (by adding -d as an argument) or by using the start command:
+-  Start the containers with the up command in daemon mode (by adding -d as an argument) or by using the start command:
 
-`docker-compose start`
+       docker-compose start
     
-Stopping containers
+-  Stopping containers
 
-`docker-compose stop`
+       docker-compose stop
 
 
 # AUTHOR
