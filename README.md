@@ -52,12 +52,27 @@ Open a terminal and cd to the folder in which docker-compose.yml is saved and ru
 Hola!, Everything is Set now the containers are now built and running. You should be able to access the WordPress installation with the configured IP in the browser address by Enter your IP addrees of base os you also check by using `ifconfig` [http://XXX.XXX.XXX.XXX:8081]
 
 
+# Here is an instance of my Blog site which I built using automation(in just single click):- 
 
-   
+
+![img1](https://user-images.githubusercontent.com/45136716/81509248-e3e99d80-9326-11ea-9257-bd6fb89a5dfa.jpg)
+
+
+## Fore more reference on docker-compose:-
+
+Start the containers with the up command in daemon mode (by adding -d as an argument) or by using the start command:
+
+`docker-compose start`
     
+Stopping containers
+
+`docker-compose stop`
+
+
+# AUTHOR
  
-
-
+ [MANTHAN CHOUDHURY] (https://github.com/ManthanChoudhury)
+ 
 
 
 
